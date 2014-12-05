@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ressources/images/kana_quizz.png</file>
+        <file>ressources/images/retour.png</file>
+    </qresource>
+</RCC>
